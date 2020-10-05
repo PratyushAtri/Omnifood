@@ -28,11 +28,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601913838882</updated>
       <workItem from="1601913839995" duration="561000" />
-      <workItem from="1601918862980" duration="380000" />
+      <workItem from="1601918862980" duration="3006000" />
     </task>
     <servers />
   </component>
@@ -57,6 +59,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="327" y="198" width="701" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601919600901">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="327" y="198" width="701" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1601919600901" />
     <state x="461" y="140" width="424" height="513" key="FileChooserDialogImpl" timestamp="1601915135545">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
