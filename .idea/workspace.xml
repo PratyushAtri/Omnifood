@@ -32,12 +32,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/css/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/css/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/css" />
     </key>
@@ -53,7 +56,7 @@
       <workItem from="1601913839995" duration="561000" />
       <workItem from="1601918862980" duration="3152000" />
       <workItem from="1601967939719" duration="2311000" />
-      <workItem from="1601994673438" duration="1218000" />
+      <workItem from="1601994673438" duration="2128000" />
     </task>
     <servers />
   </component>
